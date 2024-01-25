@@ -1,0 +1,9 @@
+.tabel-item {
+  padding: 0 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons {
+  align-self: center;
+}

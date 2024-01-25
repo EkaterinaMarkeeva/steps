@@ -1,0 +1,43 @@
+* {
+  border: none;
+  background: none;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.form {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.input {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+.table_header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {    
+  align-self: end;
+}
+
+.form_btn {
+  padding: 15px 30px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+.form_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.data {
+  border: 1px solid #000;
+  border-radius: 10px;
+}
